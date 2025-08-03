@@ -32,7 +32,7 @@ Confusion Matrix
 
 ✅ Use Case Examples
 Classifying animals (e.g., dog vs cat)
-![image alt]()
+![image alt](https://raw.githubusercontent.com/ChandruElamaran/image-detection-/f8d10133f5a617750167052cdfb10e4cf98a77bc/00.png)
 
 Identifying diseases in plant leaves
 
